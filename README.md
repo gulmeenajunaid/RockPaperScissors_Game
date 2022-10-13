@@ -1,4 +1,4 @@
-#**Rock Paper Scissors Game**
+**Rock Paper Scissors Game**
 
 
 This is a simple implementation of the classic "Rock Paper Scissors" game in JavaScript. The game consists of five game rounds and is played against the computer
