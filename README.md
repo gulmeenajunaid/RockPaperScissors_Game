@@ -10,7 +10,7 @@ In each round, it prompts the user to share his/her selected shape and display t
 HTML, JavaScript
 
 
-## **Link to the game:**
+## **Website Link:**
 
 https://gulmeenajunaid.github.io/RockPaperScissors_Game/
 
