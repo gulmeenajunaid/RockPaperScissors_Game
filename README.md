@@ -6,7 +6,7 @@ in the browser console.
 In each round, it prompts the user to share his/her selected shape and display the result accordingly. After five rounds, the final winner is declared.
 
 
-Link to the game:
+**Link to the game:**
 
 https://gulmeenajunaid.github.io/RockPaperScissors_Game/
 
