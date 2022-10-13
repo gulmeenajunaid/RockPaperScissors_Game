@@ -1,4 +1,4 @@
-**Rock Paper Scissors Game**
+#**Rock Paper Scissors Game**
 
 
 This is a simple implementation of the classic "Rock Paper Scissors" game in JavaScript. The game consists of five game rounds and is played against the computer
@@ -7,6 +7,5 @@ In each round, it prompts the user to share his/her selected shape and display t
 
 
 Link to the game:
-
 https://gulmeenajunaid.github.io/RockPaperScissors_Game/
 
