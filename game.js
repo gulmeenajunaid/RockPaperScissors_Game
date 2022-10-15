@@ -7,7 +7,7 @@ let drawCounter = 0;
 const resultStrings = {
 	rockString: `Rock beats scissors!`,
 	paperString: `Paper beats rock!`,
-	scissorsString: `Scissors beats paper`,
+	scissorsString: `Scissors beats paper!`,
 	winString: `You win!`,
 	loseString: `You lose!`,
 	drawString: `It's a draw!`,
@@ -55,7 +55,12 @@ const game = () => {
 		} else if (result.includes(`draw`)) {
 			drawCounter += 1;
 		}
-		console.log(`ROUND ${i + 1}: \n${result} \nYour Score: ${playerScore}`);
+		console.log(
+			`ROUND ${i + 1}: 
+			\nYour choice: ${playerSelection} ||| Computer's Choice: ${computerSelection} 
+			\n${result} 
+			\nYour Score: ${playerScore}`
+		);
 	}
 	console.log(`----------------------GAME FINISHED----------------------`);
 
